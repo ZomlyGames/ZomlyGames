@@ -13,19 +13,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hi, I'm Francisco García
+<h1 align="center">👋 Hi, I'm Francisco García</h1>
 
-**Full-Stack Web Developer** · Galicia, Spain.
+<div align="center">
 
-I build web applications and enjoy turning ideas into real, production-ready projects.
-
-Currently developing and maintaining **[Obsidian Knight Wiki](https://obsidianknightwiki.com)**, a Full-Stack web application built from scratch and running in production.
+**Full-Stack Web Developer** · Galicia, Spain
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-garcia-lantaron/)
 [![Website](https://img.shields.io/badge/Website-obsidianknightwiki.com-222222?logo=googlechrome&logoColor=white)](https://obsidianknightwiki.com)
 [![Email](https://img.shields.io/badge/Email-francisco%40obsidianknightwiki.com-555555?logo=gmail&logoColor=white)](mailto:francisco@obsidianknightwiki.com)
 
-## Featured Project
+</div>
+
+## 👨‍💻 About Me
+
+I’m a web developer with hands-on experience in both frontend and backend development, working with modern web technologies and agile development practices.
+
+Currently developing and maintaining **[Obsidian Knight Wiki](https://obsidianknightwiki.com)**, a dedicated wiki for **[Obsidian Knight RPG](https://play.google.com/store/apps/details?id=com.actfirstgames.seven)** (video game developed by ActFirst Games).
+
+## 🚀 Featured Project
 
 ### Obsidian Knight Wiki
 
@@ -33,15 +39,14 @@ Full-stack web application built from scratch and running in production.
 
 [![Link to Obsidian Knight Wiki web](./assets/obsidian-knight-wiki.png)](https://obsidianknightwiki.com)
 
-## 🛠️ Tech I Work With
+## 🛠️ Tech Stack
 
 | Area | Technologies |
 | --- | --- |
-| **Languages** | PHP · Java · JavaScript · TypeScript · HTML · CSS / SCSS · SQL |
+| **Languages** | PHP · Java · JavaScript · TypeScript · HTML · CSS / SCSS |
 | **Frontend** | Angular · AngularJS · Blade |
 | **Backend** | Laravel · Spring Boot |
 | **CMS / Admin** | Filament |
-| **Databases** | SQL |
 | **Infrastructure** | Docker · Cloudflare |
 | **Tools** | Git · GitHub · Slack · Trello |
 
@@ -55,5 +60,4 @@ Worked with Angular, TypeScript, JavaScript, HTML, SCSS, Spring Boot and Angular
 ## Get in touch
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/francisco-garcia-lantaron/)
-- 🌐 [Obsidian Knight Wiki](https://obsidianknightwiki.com)
 - 📧 [francisco@obsidianknightwiki.com](mailto:francisco@obsidianknightwiki.com)
